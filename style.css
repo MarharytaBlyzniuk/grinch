@@ -1,0 +1,79 @@
+body {
+    background-color: rgb(232, 232, 239);;
+    font-family: Arial, sans-serif;
+    margin: 60px;
+    text-align: center;
+
+}
+
+.logo {
+    text-align: left;
+    width: 150px;
+    opacity: 0.5;
+}
+
+h1, h3 {
+    text-align: center;
+    color: midnightblue;
+}
+
+
+hr {
+    border: 2px solid darkblue;
+    width: 400px
+}
+
+p {
+    padding: 30px;
+    font-family: "Lucida Console", monospace;
+    font-size: 20px;
+    border: 2px solid silver;
+    line-height: 2em;
+}
+
+.ct-text {
+    text-align: center;
+    color: darkblue;
+}
+
+.text-about {
+    text-align: center;
+    font-family: sans-serif;
+    color: darkgoldenrod;
+}
+
+.text-gr {
+    text-align: justify;
+    color: green;
+}
+
+#text {
+    text-align: center;
+    font-family: cursive;
+    color: black;
+}
+
+.img-grinch {
+    width: 100%;
+    text-align: center;
+    margin-top: 50px;
+    border-radius: 500px;
+}
+
+.nav {
+    text-align: center;
+    text-decoration: none;
+    font-size: 20px;
+}
+
+.title {
+    font-size: 60px;
+}
+
+.img-gr {
+
+    height: 350px;
+    margin: 15px;
+    border: 3px solid darkblue;
+    border-radius: 10px;
+}
